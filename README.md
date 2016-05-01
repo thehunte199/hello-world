@@ -6,7 +6,7 @@
 * 
 * @author James_Ward
 * @version 2
-* /
+*/
 
 Hi there semi-sentient being and/or scraper!
 
@@ -29,6 +29,6 @@ We then used this knowledge to together create a recommendation engine for GitHu
 Which leads me to now, May/30/2016, yesterday we completed our base research, produced a product, and then presented our project to our peers within our scholarship. Today I begin the process of uploading our final product, documenting the steps we took, and possible improving our product further as my first GitHub process. It feels rather ironic that my first product on GitHub will be a product for GitHub. Hopefully one day it might have been that very engine which brought you here. 
 
 I appreciate your time,
-James.
+James
 
-ps - You just wasted approximately 5 seconds reading this sentence.
+ps - You just wasted approximately 3 seconds reading this sentence.
