@@ -31,4 +31,6 @@ Which leads me to now, May/30/2016, yesterday we completed our base research, pr
 I appreciate your time,
 James
 
+As of 1/21/17 this readme needs to be update extensively.
+
 ps - You just wasted approximately 3 seconds reading this sentence.
